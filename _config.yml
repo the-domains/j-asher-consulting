@@ -1,4 +1,19 @@
-analytics: {}
+name: J Asher Consulting
+favicon: null
+layout_spectrum: 0.226351
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#A8C0D8'
@@ -6,13 +21,11 @@ color:
     - '#507098'
     - '#5880B0'
     - '#C0D8E8'
-  brandStrength: 0.439851
-  lightness: 0.269087
-  rhythmicContrast: 0.890346
+  brandStrength: 0.5
+  lightness: 0.6875
   saturation: 0.038159
-cta: {}
-layout_spectrum: 0.226351
-name: J Asher Consulting
-opengraph: {}
-purpose: {}
-typography_spectrum: 1
+  rhythmicContrast: 0.890346
+purpose:
+  - name: null
+    item: null
+    url: null
