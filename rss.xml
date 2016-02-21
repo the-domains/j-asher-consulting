@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[J Asher Consulting]]></title>
         <description><![CDATA[J Asher Consulting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/j-asher-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 03:27:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 03:33:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/j-asher-consulting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f54ef1b9-1522-497c-9033-66fe91fd5370.jpg">]]></description>
-            <link>undefinedab628cca-3acd-499e-8062-af3ac3af15e1/index.html</link>
+            <link>https://thegrid.ai/j-asher-consulting/ab628cca-3acd-499e-8062-af3ac3af15e1/index.html</link>
             <guid isPermaLink="false">ab628cca-3acd-499e-8062-af3ac3af15e1</guid>
-            <pubDate>Sun, 21 Feb 2016 03:26:38 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 03:33:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
